@@ -1,0 +1,13 @@
+
+Source:
+
+https://electronicswithshreyash.blogspot.com/2019/09/tutorial-3-ultrasonic-sensor.html
+
+
+fuel:https://youtu.be/cPXkodMMfWY
+water:https://youtu.be/0bJstJM4bBQ
+
+Arduino Articles
+----------------------------------
+1] LED Interfacing on Advance Level:  https://electronicswithshreyash.blogs...
+2] LCD Interfacing On Advance Level:  https://electronicswithshreyash.blogs... 
